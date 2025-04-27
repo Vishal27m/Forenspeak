@@ -1,0 +1,9 @@
+streamlit
+pyngrok
+moviepy
+opencv-python
+numpy
+dlib
+Pillow
+num2words
+openai-whisper
